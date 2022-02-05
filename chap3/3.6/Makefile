@@ -1,4 +1,4 @@
-targets = 3_6_1_barrier_spin
+targets = 3_6_1_barrier_spin 3_6_2_barrier_pthread
 CFLAGS = -O3
 LDFLAGS = -pthread
 
